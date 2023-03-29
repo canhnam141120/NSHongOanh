@@ -5,6 +5,7 @@
     @RenderSection("styles", required: false)
     <!-- plugin css -->
     <link href="~/assets/libs/jsvectormap/css/jsvectormap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/assets/libs/swiper/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
 
     @Html.Partial("~/Views/Shared/_head_css.cshtml")
 </head>
@@ -12,12 +13,11 @@
     <!-- Begin page -->
     <div id="layout-wrapper">
         @Html.Partial("~/Views/Shared/_userMenu.cshtml")
-
+        @Html.Partial("~/Views/Shared/_userMainHeader.cshtml")
         <!-- ============================================================== -->
         <!-- Start right Content here -->
         <!-- ============================================================== -->
         <div class="main-content">
-
             <div class="page-content">
                 <div class="container-fluid">
                     @Html.Partial("~/Views/Shared/_page_title.cshtml")
@@ -34,7 +34,15 @@
     @Html.Partial("~/Views/Shared/_vendor_scripts.cshtml")
     @RenderSection("scripts", required: false)
 
-   <!-- App js -->
+<!-- App js -->
+<!-- prismjs plugin -->
+<script src="~/assets/libs/prismjs/prism.js"></script>
+
+<!--Swiper slider js-->
+<script src="~/assets/libs/swiper/swiper-bundle.min.js"></script>
+
+<!-- swiper.init js -->
+<script src="~/assets/js/pages/swiper.init.js"></script>
     <script src="~/assets/js/app.js"></script>
 </body>
 </html>

@@ -4445,36 +4445,12 @@
       "PackagePath": "staticwebassets\\assets\\json\\team-member-list.json"
     },
     {
-      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\lang\\ar.json",
-      "PackagePath": "staticwebassets\\assets\\lang\\ar.json"
-    },
-    {
-      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\lang\\ch.json",
-      "PackagePath": "staticwebassets\\assets\\lang\\ch.json"
-    },
-    {
       "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\lang\\en.json",
       "PackagePath": "staticwebassets\\assets\\lang\\en.json"
     },
     {
-      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\lang\\fr.json",
-      "PackagePath": "staticwebassets\\assets\\lang\\fr.json"
-    },
-    {
-      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\lang\\gr.json",
-      "PackagePath": "staticwebassets\\assets\\lang\\gr.json"
-    },
-    {
-      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\lang\\it.json",
-      "PackagePath": "staticwebassets\\assets\\lang\\it.json"
-    },
-    {
-      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\lang\\ru.json",
-      "PackagePath": "staticwebassets\\assets\\lang\\ru.json"
-    },
-    {
-      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\lang\\sp.json",
-      "PackagePath": "staticwebassets\\assets\\lang\\sp.json"
+      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\lang\\vn.json",
+      "PackagePath": "staticwebassets\\assets\\lang\\vn.json"
     },
     {
       "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\libs\\@ckeditor\\ckeditor5-build-classic\\LICENSE.md",
@@ -17675,6 +17651,42 @@
     {
       "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\scss\\structure\\_vertical.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\structure\\_vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\userImg\\banner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\userImg\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\userImg\\banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\userImg\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\userImg\\banner3.jpg",
+      "PackagePath": "staticwebassets\\assets\\userImg\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\userImg\\banner4.jpg",
+      "PackagePath": "staticwebassets\\assets\\userImg\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\userImg\\banner5.png",
+      "PackagePath": "staticwebassets\\assets\\userImg\\banner5.png"
+    },
+    {
+      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\userImg\\banner6.jpg",
+      "PackagePath": "staticwebassets\\assets\\userImg\\banner6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\userImg\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\userImg\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\userImg\\logoLight.png",
+      "PackagePath": "staticwebassets\\assets\\userImg\\logoLight.png"
+    },
+    {
+      "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\assets\\userImg\\topBanner.jpg",
+      "PackagePath": "staticwebassets\\assets\\userImg\\topBanner.jpg"
     },
     {
       "Id": "C:\\Users\\conta\\Documents\\Project\\NSHongOanh\\NSHongOanh\\NSHongOanh\\wwwroot\\css\\site.css",

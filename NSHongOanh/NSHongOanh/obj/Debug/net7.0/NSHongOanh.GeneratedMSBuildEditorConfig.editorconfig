@@ -32,8 +32,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU2lnblVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/conta/Documents/Project/NSHongOanh/NSHongOanh/NSHongOanh/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/conta/Documents/Project/NSHongOanh/NSHongOanh/NSHongOanh/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/conta/Documents/Project/NSHongOanh/NSHongOanh/NSHongOanh/Views/Home/Intro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbnRyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/conta/Documents/Project/NSHongOanh/NSHongOanh/NSHongOanh/Views/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/conta/Documents/Project/NSHongOanh/NSHongOanh/NSHongOanh/Views/Shared/Error.cshtml]
@@ -78,6 +90,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/conta/Documents/Project/NSHongOanh/NSHongOanh/NSHongOanh/Views/Shared/_userLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF91c2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/conta/Documents/Project/NSHongOanh/NSHongOanh/NSHongOanh/Views/Shared/_userMainHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF91c2VyTWFpbkhlYWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/conta/Documents/Project/NSHongOanh/NSHongOanh/NSHongOanh/Views/Shared/_userMenu.cshtml]

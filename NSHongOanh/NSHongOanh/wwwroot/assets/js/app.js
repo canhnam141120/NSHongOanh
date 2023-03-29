@@ -14,8 +14,8 @@ File: Main Js File
 	 *  global variables
 	 */
 	var navbarMenuHTML = document.querySelector(".navbar-menu").innerHTML;
-	var horizontalMenuSplit = 7; // after this number all horizontal menus will be moved in More menu options
-	var default_lang = "en"; // set Default Language
+	var horizontalMenuSplit = 9; // after this number all horizontal menus will be moved in More menu options
+	var default_lang = "vn"; // set Default Language
 	var language = localStorage.getItem("language");
 
 	function initLanguage() {
@@ -32,21 +32,9 @@ File: Main Js File
 	function setLanguage(lang) {
 		if (document.getElementById("header-lang-img")) {
 			if (lang == "en") {
-				document.getElementById("header-lang-img").src = "/assets/images/flags/us.svg";
-			} else if (lang == "sp") {
-				document.getElementById("header-lang-img").src = "/assets/images/flags/spain.svg";
-			} else if (lang == "gr") {
-				document.getElementById("header-lang-img").src = "/assets/images/flags/germany.svg";
-			} else if (lang == "it") {
-				document.getElementById("header-lang-img").src = "/assets/images/flags/italy.svg";
-			} else if (lang == "ru") {
-				document.getElementById("header-lang-img").src = "/assets/images/flags/russia.svg";
-			} else if (lang == "ch") {
-				document.getElementById("header-lang-img").src = "/assets/images/flags/china.svg";
-			} else if (lang == "fr") {
-				document.getElementById("header-lang-img").src = "/assets/images/flags/french.svg";
-			} else if (lang == "ar") {
-				document.getElementById("header-lang-img").src = "/assets/images/flags/ae.svg";
+				document.getElementById("header-lang-img").src = "/assets/images/flags/gb.svg";
+			} else if (lang == "vn") {
+				document.getElementById("header-lang-img").src = "/assets/images/flags/vn.svg";
 			}
 			localStorage.setItem("language", lang);
 			language = localStorage.getItem("language");
@@ -1135,7 +1123,7 @@ File: Main Js File
 			}
 
 			if (index + 1 === menuData.length) {
-				if (splitItem.insertAdjacentHTML) {
+				/*if (splitItem.insertAdjacentHTML) {
 					splitItem.insertAdjacentHTML(
 						"afterend",
 						'<li class="nav-item">\
@@ -1144,7 +1132,7 @@ File: Main Js File
 						</a>\
 						<div class="collapse menu-dropdown" id="sidebarMore"><ul class="nav nav-sm flex-column">' + newMenus + "</ul></div>\
 					</li>");
-				}
+				}*/
 			}
 		});
 	}
